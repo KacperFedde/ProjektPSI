@@ -1,0 +1,3 @@
+Kacper Fedde: Pobranie i zapisanie danych, Edycja i poprawki w kodzie, Dokumentacja SVD
+Antoni Piotrowski: Scrappowaie danych treningowych, Napisanie skryptu, Edycja kodu
+Oskar Chamela: Pobranie danych, Dokumentacja SVD, Edycja, redakcja i kontrola kodu
