@@ -67,6 +67,8 @@ scrape_article <- function(url) {
 #Zdefiniowanie źródła artykułów
 linki_cnn <- get_latest_links("https://www.cnn.com/politics", "https://www.cnn.com", "/202", 30)
 linki_fox <- get_latest_links("https://www.foxnews.com/politics", "https://www.foxnews.com", "/politics/.*-", 30)
+# Jeżeli użytkownik chce powtarzać analizę na tych samych artykułach, powinien zamienić powyższe funkcje na odpowiedniki
+# używające za każdym razem tych samych artykułów, np. podając konkretne linki do artykułów
 
 #Przetwarzanie zbioru danych
 # Undersampling: wyrównujemy ilość artykułów
